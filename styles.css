@@ -43,7 +43,7 @@ img {
 } 
 
 .botao {
-  border: 2px solid black;
+  border: 2px solid #767676;
   padding: 8px 16px;
   color: white;
   background-color: transparent;
@@ -55,5 +55,5 @@ img {
 }
 
 .botao:hover {
-  background-color: #aaa;
+  background-color: #7e7e7e;
 }
