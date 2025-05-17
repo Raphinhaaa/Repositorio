@@ -29,3 +29,24 @@ img {
   width: 400px;
   height: 300px;
 }
+
+.botoes {
+  display: flex;
+  gap: 10px; 
+} 
+
+.botao {
+  border: 2px solid black;
+  padding: 8px 16px;
+  color: white;
+  background-color: transparent;
+  border-radius: 6px;
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.botao:hover {
+  background-color: #aaa;
+}
