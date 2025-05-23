@@ -135,7 +135,7 @@ img {
 .caixa {
   max-width: 300px;
   border: 1px solid #ccc; 
-  border-radius: 12px;
+  border-radius: 2px;
   padding: 16px;
   margin-left: 20px;
   background-color: #fff;
